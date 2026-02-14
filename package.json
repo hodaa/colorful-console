@@ -1,4 +1,11 @@
 {
+  "name": "colorful-console",
+  "version": "1.0.0",
+  "main": "index.js",      
+  "scripts": {
+    "start": "node index.js" 
+  },
+  "dependencies": {},
   "devDependencies": {
     "@types/node": "^25.2.3"
   }
